@@ -1,7 +1,7 @@
 mako==1.0.7
 click==7.0
 mock==2.0.0
-pytest-flake8==1.0.2
+pytest-flake8==1.0.7
 sphinx==1.8.1
 h5py==2.8.0
 sphinx_rtd_theme==0.4.2
